@@ -1,0 +1,30 @@
+/* setting some universal property for adjustment */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Merriweather', serif;
+}
+/* setting margin for main and header */
+header {
+    margin: 0px 100px;
+}
+main {
+    margin: 0px 100px;
+}
+.header {
+    margin-top: 50px;
+}
+.header-image img {
+    width: 100%;
+    height: auto;
+    
+    filter: brightness(65%);
+}
+.header-text {
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 180px;
+    left: 445px;
+    font-size: 30px;
+}
