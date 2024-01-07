@@ -137,5 +137,46 @@ main {
     width: 150px;
     height: 50px;
     font-size: 20px;
+}
+/* cooming-soon section is implemented here  */
+.cooming-soon-section {
+    font-family: 'Inter', sans-serif;   
+    margin-bottom: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.first-section {
+    width: 350px;
+}
+.first-section  .new-ofer {
+    color: red;
+}
+.first-section .coomingsoon {
+    font-family: 'Merriweather', serif;
+    font-size: 35px;
+    margin: 10px 0px;
+}
+.first-section p {
+    color: rgba(7, 2, 17, 0.60);
+}
+.second-section {
+    border: 13px solid red;
+    border-radius: 50%;
+    padding: 19px;
     
+}
+.second-section img {
+    width: 250px;
+}
+.third-section {
+    width: 350px;
+}
+.third-section h1 {
+    color: red;
+}
+.third-section p {
+    margin: 10px 0px;
+    color: rgba(7, 2, 17, 0.60);
 }
