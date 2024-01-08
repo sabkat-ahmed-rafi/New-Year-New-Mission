@@ -314,3 +314,53 @@ main {
     font-size: 15px;
 }
 /* footer section is implemented here  */
+footer {
+    border: 1px solid black;
+    height: 400px;
+    background: #070211;
+    color: white;
+}
+.address-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 100px;
+}
+.text-address1 {
+    position: relative;
+    top: 25px;
+}
+.icons-section {
+    position: relative;
+    top: 60px;
+    margin: 0px 100px;
+}
+.icons-section div img {
+    padding: 20px 10px;
+    position: relative;
+    left: 405px;
+}
+.reserved-section {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    top: 120px;
+    margin: 0px 100px;
+}
+.address-imageone  .address-imagetwo {
+    position: relative;
+    top: 10px;
+}
+.text-address2 p img {
+    position: relative;
+    top: 25px;
+    right: 30px;
+}
+.text-address2 p span {
+    position: relative;
+    top: 20px;
+}
+.text-address2 {
+    position: relative;
+    top: 20px;
+}
