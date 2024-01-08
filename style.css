@@ -339,6 +339,7 @@ footer {
     padding: 20px 10px;
     position: relative;
     left: 405px;
+    cursor: pointer;
 }
 .reserved-section {
     display: flex;
