@@ -315,6 +315,7 @@ main {
 }
 /* footer section is implemented here  */
 footer {
+    font-family: 'Inter', sans-serif;
     border: 1px solid black;
     height: 400px;
     background: #070211;
